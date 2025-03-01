@@ -1,6 +1,6 @@
 # UCAS-CA-Lab
 
-This project implements an out-of-order CPU based on the Reduced LoongArch 32 instruction set architecture (ISA), for the UCAS course, Computer Architecture and Engineering Laboratory. 
+This project implements an out-of-order CPU based on the Reduced LoongArch 32 instruction set architecture (ISA), for the UCAS course, Computer Architecture and Engineering Laboratory 2024. 
 
 ![architecture](image/architecture.png)
 
